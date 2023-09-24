@@ -8,5 +8,7 @@ done:
 
 to be added :
     1. pose classification, using mediapipe 
-    2. ?
+    2. pose classification, using OpenPose
+    3. ?
+    4. ?
     ...
