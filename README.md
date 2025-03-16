@@ -7,8 +7,10 @@ and then classify their poses using different approaches.
   
 Here are different libraries used for pose detection step:   
 1. Mediapipe's pose detection module  
-2. OpenPose pose detection library   (to do next)
+2. OpenPose pose detection library   (to use next)
 
 sample detected pose:   
-![pose](pose.png) 
+![pose](pose.png)  
+  
+
 
