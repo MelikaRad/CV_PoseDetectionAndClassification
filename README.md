@@ -9,6 +9,6 @@ Here are different libraries used for pose detection step:
 1. Mediapipe's pose detection module  
 2. OpenPose pose detection library   (to do next)
 
-sample detected pose: 
+sample detected pose:   
 ![pose](pose.png) 
 
